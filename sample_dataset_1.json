@@ -1,0 +1,709 @@
+{
+  "data": [
+    {
+      "title": "Capitals of the World",
+      "paragraphs": [
+        {
+          "context": "India is a diverse country in South Asia. The capital of India is New Delhi, a major city located in the northern part of the country. It serves as the seat of the Indian government and is home to important institutions.",
+          "qas": [
+            {"question": "What is the capital of India?", "id": "1", "answers": [{"text": "New Delhi", "answer_start": 82}]},
+            {"question": "Which city is the capital of India?", "id": "2", "answers": [{"text": "New Delhi", "answer_start": 82}]},
+            {"question": "capital of india", "id": "3", "answers": [{"text": "New Delhi", "answer_start": 82}]},
+            {"question": "Where is the capital of India?", "id": "4", "answers": [{"text": "New Delhi, a major city located in the northern part of the country", "answer_start": 82}]}
+          ]
+        },
+        {
+          "context": "France is a Western European country. The capital of France is Paris, known as the City of Light. Paris is home to famous landmarks like the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral.",
+          "qas": [
+            {"question": "What is the capital of France?", "id": "5", "answers": [{"text": "Paris", "answer_start": 65}]},
+            {"question": "capital of france", "id": "6", "answers": [{"text": "Paris", "answer_start": 65}]},
+            {"question": "Which city is the capital of France?", "id": "7", "answers": [{"text": "Paris", "answer_start": 65}]}
+          ]
+        },
+        {
+          "context": "The United States is located in North America. The capital of the United States is Washington, D.C., situated on the eastern coast. Washington, D.C. is home to the White House, the residence and workplace of the U.S. President.",
+          "qas": [
+            {"question": "What is the capital of the United States?", "id": "8", "answers": [{"text": "Washington, D.C.", "answer_start": 99}]},
+            {"question": "capital of usa", "id": "9", "answers": [{"text": "Washington, D.C.", "answer_start": 99}]},
+            {"question": "What is the capital of America?", "id": "10", "answers": [{"text": "Washington, D.C.", "answer_start": 99}]}
+          ]
+        },
+        {
+          "context": "China is the world's most populous country located in East Asia. The capital of China is Beijing, a major city with a rich history. Beijing has been the capital for many dynasties and is home to the Great Wall.",
+          "qas": [
+            {"question": "What is the capital of China?", "id": "11", "answers": [{"text": "Beijing", "answer_start": 91}]},
+            {"question": "capital of china", "id": "12", "answers": [{"text": "Beijing", "answer_start": 91}]}
+          ]
+        },
+        {
+          "context": "Japan is an island nation in East Asia. The capital of Japan is Tokyo, the largest metropolitan area in the world. Tokyo is known for its modern architecture, technology, and vibrant culture.",
+          "qas": [
+            {"question": "What is the capital of Japan?", "id": "13", "answers": [{"text": "Tokyo", "answer_start": 76}]},
+            {"question": "capital of japan", "id": "14", "answers": [{"text": "Tokyo", "answer_start": 76}]}
+          ]
+        },
+        {
+          "context": "Germany is located in Central Europe. The capital of Germany is Berlin, which served as divided during the Cold War. Berlin is now a unified city and the cultural and political center of Germany.",
+          "qas": [
+            {"question": "What is the capital of Germany?", "id": "15", "answers": [{"text": "Berlin", "answer_start": 74}]},
+            {"question": "capital of germany", "id": "16", "answers": [{"text": "Berlin", "answer_start": 74}]}
+          ]
+        },
+        {
+          "context": "Australia is the largest country in Oceania. The capital of Australia is Canberra, a planned city built in the mid-20th century. Canberra was chosen as a compromise between Melbourne and Sydney.",
+          "qas": [
+            {"question": "What is the capital of Australia?", "id": "17", "answers": [{"text": "Canberra", "answer_start": 73}]},
+            {"question": "capital of australia", "id": "18", "answers": [{"text": "Canberra", "answer_start": 73}]}
+          ]
+        },
+        {
+          "context": "Brazil is the largest country in South America. The capital of Brazil is Brasília, a modernist planned city. Brasília was built in the 1960s and replaced Rio de Janeiro as the capital.",
+          "qas": [
+            {"question": "What is the capital of Brazil?", "id": "19", "answers": [{"text": "Brasília", "answer_start": 73}]},
+            {"question": "capital of brazil", "id": "20", "answers": [{"text": "Brasília", "answer_start": 73}]}
+          ]
+        },
+        {
+          "context": "Russia is the largest country in the world by land area. The capital of Russia is Moscow, the political and cultural center. Moscow is home to the Kremlin and is known for its historic architecture.",
+          "qas": [
+            {"question": "What is the capital of Russia?", "id": "21", "answers": [{"text": "Moscow", "answer_start": 97}]},
+            {"question": "capital of russia", "id": "22", "answers": [{"text": "Moscow", "answer_start": 97}]}
+          ]
+        },
+        {
+          "context": "Canada is the second largest country in the world. The capital of Canada is Ottawa, located in Ontario. Ottawa is home to Parliament Hill and the Canadian government.",
+          "qas": [
+            {"question": "What is the capital of Canada?", "id": "23", "answers": [{"text": "Ottawa", "answer_start": 74}]},
+            {"question": "capital of canada", "id": "24", "answers": [{"text": "Ottawa", "answer_start": 74}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political Leaders and Governments",
+      "paragraphs": [
+        {
+          "context": "Narendra Modi is the current Prime Minister of India since 2014. He is the leader of the Bharatiya Janata Party (BJP). Modi has been re-elected and continues to serve as Prime Minister of India.",
+          "qas": [
+            {"question": "Who is the prime minister of India?", "id": "25", "answers": [{"text": "Narendra Modi", "answer_start": 0}]},
+            {"question": "prime minister of india", "id": "26", "answers": [{"text": "Narendra Modi", "answer_start": 0}]},
+            {"question": "Who is the current PM of India?", "id": "27", "answers": [{"text": "Narendra Modi", "answer_start": 0}]}
+          ]
+        },
+        {
+          "context": "Joe Biden is the 46th President of the United States, serving since January 2021. He is a member of the Democratic Party. Biden is known for his diplomatic approach and focus on climate change.",
+          "qas": [
+            {"question": "Who is the President of the United States?", "id": "28", "answers": [{"text": "Joe Biden", "answer_start": 0}]},
+            {"question": "Who is the current president of USA?", "id": "29", "answers": [{"text": "Joe Biden", "answer_start": 0}]},
+            {"question": "president of usa", "id": "30", "answers": [{"text": "Joe Biden", "answer_start": 0}]}
+          ]
+        },
+        {
+          "context": "Xi Jinping is the President of China and General Secretary of the Communist Party of China. He has been in power since 2013. Xi is considered one of the most powerful leaders in the world.",
+          "qas": [
+            {"question": "Who is the President of China?", "id": "31", "answers": [{"text": "Xi Jinping", "answer_start": 0}]},
+            {"question": "president of china", "id": "32", "answers": [{"text": "Xi Jinping", "answer_start": 0}]}
+          ]
+        },
+        {
+          "context": "Keir Starmer is the Prime Minister of the United Kingdom since 2024. He is the leader of the Labour Party. Starmer is focused on improving the economy and public services.",
+          "qas": [
+            {"question": "Who is the Prime Minister of the United Kingdom?", "id": "33", "answers": [{"text": "Keir Starmer", "answer_start": 0}]},
+            {"question": "prime minister of UK", "id": "34", "answers": [{"text": "Keir Starmer", "answer_start": 0}]}
+          ]
+        },
+        {
+          "context": "Macron is the President of France since 2017. He founded his own political party called En Marche. Macron is the youngest president of France in recent history.",
+          "qas": [
+            {"question": "Who is the President of France?", "id": "35", "answers": [{"text": "Macron", "answer_start": 0}]},
+            {"question": "president of france", "id": "36", "answers": [{"text": "Macron", "answer_start": 0}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sports and Games",
+      "paragraphs": [
+        {
+          "context": "Cricket is one of the most popular sports in India. India won the ICC Cricket World Cup in 1983 and 2011. Indian cricket is dominated by batsmen and bowlers who are celebrated nationwide.",
+          "qas": [
+            {"question": "What is the most popular sport in India?", "id": "37", "answers": [{"text": "Cricket", "answer_start": 0}]},
+            {"question": "popular sport in india", "id": "38", "answers": [{"text": "Cricket", "answer_start": 0}]},
+            {"question": "When did India win the World Cup?", "id": "39", "answers": [{"text": "1983 and 2011", "answer_start": 79}]}
+          ]
+        },
+        {
+          "context": "Football is the most popular sport in the world. The FIFA World Cup is held every four years. Football has billions of fans across the globe.",
+          "qas": [
+            {"question": "What is the most popular sport in the world?", "id": "40", "answers": [{"text": "Football", "answer_start": 0}]},
+            {"question": "most popular sport globally", "id": "41", "answers": [{"text": "Football", "answer_start": 0}]},
+            {"question": "How often is the FIFA World Cup held?", "id": "42", "answers": [{"text": "every four years", "answer_start": 104}]}
+          ]
+        },
+        {
+          "context": "Chess is a strategic board game played between two players. It is one of the oldest games still played today. Chess requires both tactical and strategic thinking.",
+          "qas": [
+            {"question": "What is chess?", "id": "43", "answers": [{"text": "a strategic board game played between two players", "answer_start": 0}]},
+            {"question": "Is chess a sport?", "id": "44", "answers": [{"text": "Yes, chess is a strategic board game", "answer_start": 0}]}
+          ]
+        },
+        {
+          "context": "Basketball was invented in 1891 by James Naismith. It is played between two teams of five players each. The NBA is the professional basketball league in the United States.",
+          "qas": [
+            {"question": "Who invented basketball?", "id": "45", "answers": [{"text": "James Naismith", "answer_start": 33}]},
+            {"question": "When was basketball invented?", "id": "46", "answers": [{"text": "1891", "answer_start": 29}]}
+          ]
+        },
+        {
+          "context": "Virat Kohli is one of the greatest batsmen in the history of cricket. He plays for India and has scored over 70 international centuries. Kohli is considered a modern batting legend.",
+          "qas": [
+            {"question": "Who is Virat Kohli?", "id": "47", "answers": [{"text": "one of the greatest batsmen in the history of cricket", "answer_start": 14}]},
+            {"question": "How many centuries has Virat Kohli scored?", "id": "48", "answers": [{"text": "over 70 international centuries", "answer_start": 115}]}
+          ]
+        },
+        {
+          "context": "Lionel Messi is an Argentine professional footballer. He won the FIFA World Cup with Argentina in 2022. Messi is considered one of the best players of all time.",
+          "qas": [
+            {"question": "Who is Lionel Messi?", "id": "49", "answers": [{"text": "an Argentine professional footballer", "answer_start": 14}]},
+            {"question": "Did Messi win the World Cup?", "id": "50", "answers": [{"text": "Yes, he won the FIFA World Cup with Argentina in 2022", "answer_start": 71}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Books and Literature",
+      "paragraphs": [
+        {
+          "context": "The Harry Potter series consists of seven books written by J.K. Rowling. The series follows the story of Harry Potter, a young wizard. The books have been translated into multiple languages and sold millions of copies worldwide.",
+          "qas": [
+            {"question": "Who wrote Harry Potter?", "id": "51", "answers": [{"text": "J.K. Rowling", "answer_start": 59}]},
+            {"question": "How many Harry Potter books are there?", "id": "52", "answers": [{"text": "seven", "answer_start": 37}]},
+            {"question": "What is Harry Potter?", "id": "53", "answers": [{"text": "a series of seven books", "answer_start": 35}]}
+          ]
+        },
+        {
+          "context": "The Great Gatsby is a novel written by F. Scott Fitzgerald. It was published in 1925. The novel is set in the Jazz Age and follows the story of Jay Gatsby.",
+          "qas": [
+            {"question": "Who wrote The Great Gatsby?", "id": "54", "answers": [{"text": "F. Scott Fitzgerald", "answer_start": 47}]},
+            {"question": "When was The Great Gatsby published?", "id": "55", "answers": [{"text": "1925", "answer_start": 92}]},
+            {"question": "What is The Great Gatsby?", "id": "56", "answers": [{"text": "a novel", "answer_start": 29}]}
+          ]
+        },
+        {
+          "context": "Pride and Prejudice is a romantic novel written by Jane Austen. It was published in 1813. The novel follows Elizabeth Bennet and Mr. Darcy.",
+          "qas": [
+            {"question": "Who wrote Pride and Prejudice?", "id": "57", "answers": [{"text": "Jane Austen", "answer_start": 56}]},
+            {"question": "When was Pride and Prejudice published?", "id": "58", "answers": [{"text": "1813", "answer_start": 93}]}
+          ]
+        },
+        {
+          "context": "The Lord of the Rings is a fantasy novel trilogy written by J.R.R. Tolkien. The series follows Frodo Baggins on his quest to destroy the One Ring. The books have been adapted into successful films.",
+          "qas": [
+            {"question": "Who wrote The Lord of the Rings?", "id": "59", "answers": [{"text": "J.R.R. Tolkien", "answer_start": 69}]},
+            {"question": "What is The Lord of the Rings about?", "id": "60", "answers": [{"text": "Frodo Baggins on his quest to destroy the One Ring", "answer_start": 112}]}
+          ]
+        },
+        {
+          "context": "1984 is a dystopian novel written by George Orwell. It was published in 1949. The novel depicts a totalitarian society under constant surveillance.",
+          "qas": [
+            {"question": "Who wrote 1984?", "id": "61", "answers": [{"text": "George Orwell", "answer_start": 46}]},
+            {"question": "When was 1984 published?", "id": "62", "answers": [{"text": "1949", "answer_start": 91}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Movies and Entertainment",
+      "paragraphs": [
+        {
+          "context": "Avatar is a science fiction film directed by James Cameron. It was released in 2009. Avatar is one of the highest-grossing films of all time.",
+          "qas": [
+            {"question": "Who directed Avatar?", "id": "63", "answers": [{"text": "James Cameron", "answer_start": 48}]},
+            {"question": "When was Avatar released?", "id": "64", "answers": [{"text": "2009", "answer_start": 90}]}
+          ]
+        },
+        {
+          "context": "The Titanic is a historical drama film directed by James Cameron. It was released in 1997. The film tells the story of the sinking of the RMS Titanic.",
+          "qas": [
+            {"question": "Who directed Titanic?", "id": "65", "answers": [{"text": "James Cameron", "answer_start": 54}]},
+            {"question": "When was Titanic released?", "id": "66", "answers": [{"text": "1997", "answer_start": 90}]}
+          ]
+        },
+        {
+          "context": "The Shawshank Redemption is a drama film directed by Frank Darabont. It was released in 1994. The film is based on a novella by Stephen King.",
+          "qas": [
+            {"question": "Who directed The Shawshank Redemption?", "id": "67", "answers": [{"text": "Frank Darabont", "answer_start": 57}]},
+            {"question": "When was The Shawshank Redemption released?", "id": "68", "answers": [{"text": "1994", "answer_start": 93}]}
+          ]
+        },
+        {
+          "context": "Bollywood is the Hindi-language film industry based in Mumbai, India. Bollywood is known for its colorful musicals and elaborate dance sequences. It is one of the largest film industries in the world.",
+          "qas": [
+            {"question": "What is Bollywood?", "id": "69", "answers": [{"text": "the Hindi-language film industry based in Mumbai, India", "answer_start": 14}]},
+            {"question": "Where is Bollywood located?", "id": "70", "answers": [{"text": "Mumbai, India", "answer_start": 52}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Science and Nature",
+      "paragraphs": [
+        {
+          "context": "The Sun is the star at the center of the Solar System. The Sun is approximately 4.6 billion years old. It is the primary source of energy for all life on Earth.",
+          "qas": [
+            {"question": "What is the Sun?", "id": "71", "answers": [{"text": "the star at the center of the Solar System", "answer_start": 14}]},
+            {"question": "How old is the Sun?", "id": "72", "answers": [{"text": "approximately 4.6 billion years old", "answer_start": 82}]}
+          ]
+        },
+        {
+          "context": "The Moon is Earth's natural satellite. It orbits around the Earth and is responsible for the tides. The Moon is also the only celestial body visited by humans.",
+          "qas": [
+            {"question": "What is the Moon?", "id": "73", "answers": [{"text": "Earth's natural satellite", "answer_start": 14}]},
+            {"question": "Why is the Moon important?", "id": "74", "answers": [{"text": "It orbits around the Earth and is responsible for the tides", "answer_start": 42}]}
+          ]
+        },
+        {
+          "context": "Photosynthesis is the process by which plants convert light energy into chemical energy. Plants use carbon dioxide and water to produce glucose. Photosynthesis is the basis of most life on Earth.",
+          "qas": [
+            {"question": "What is photosynthesis?", "id": "75", "answers": [{"text": "the process by which plants convert light energy into chemical energy", "answer_start": 20}]},
+            {"question": "How do plants produce energy?", "id": "76", "answers": [{"text": "through photosynthesis", "answer_start": 0}]}
+          ]
+        },
+        {
+          "context": "Climate change is the long-term shift in global temperatures and weather patterns. It is primarily caused by human activities such as burning fossil fuels. Climate change poses significant risks to the environment and society.",
+          "qas": [
+            {"question": "What is climate change?", "id": "77", "answers": [{"text": "the long-term shift in global temperatures and weather patterns", "answer_start": 20}]},
+            {"question": "What causes climate change?", "id": "78", "answers": [{"text": "human activities such as burning fossil fuels", "answer_start": 133}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Technology and Innovation",
+      "paragraphs": [
+        {
+          "context": "Artificial Intelligence is the simulation of human intelligence by computer systems. AI is used in various applications such as speech recognition and image processing. AI is one of the most rapidly growing fields in technology.",
+          "qas": [
+            {"question": "What is Artificial Intelligence?", "id": "79", "answers": [{"text": "the simulation of human intelligence by computer systems", "answer_start": 25}]},
+            {"question": "What are the applications of AI?", "id": "80", "answers": [{"text": "speech recognition and image processing", "answer_start": 141}]}
+          ]
+        },
+        {
+          "context": "Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed. Machine Learning algorithms analyze patterns in data to make predictions. It is widely used in recommendations systems and autonomous vehicles.",
+          "qas": [
+            {"question": "What is Machine Learning?", "id": "81", "answers": [{"text": "a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed", "answer_start": 24}]},
+            {"question": "What are the uses of Machine Learning?", "id": "82", "answers": [{"text": "recommendations systems and autonomous vehicles", "answer_start": 262}]}
+          ]
+        },
+        {
+          "context": "Blockchain is a distributed ledger technology that records transactions across multiple computers. Bitcoin was the first cryptocurrency to use blockchain technology. Blockchain ensures security and transparency of transactions.",
+          "qas": [
+            {"question": "What is Blockchain?", "id": "83", "answers": [{"text": "a distributed ledger technology that records transactions across multiple computers", "answer_start": 14}]},
+            {"question": "What was the first cryptocurrency?", "id": "84", "answers": [{"text": "Bitcoin", "answer_start": 102}]}
+          ]
+        },
+        {
+          "context": "The Internet is a global system of interconnected computers and networks. It was developed in the 1960s for military purposes. Today, the Internet connects billions of people worldwide.",
+          "qas": [
+            {"question": "What is the Internet?", "id": "85", "answers": [{"text": "a global system of interconnected computers and networks", "answer_start": 14}]},
+            {"question": "When was the Internet developed?", "id": "86", "answers": [{"text": "in the 1960s", "answer_start": 86}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "History",
+      "paragraphs": [
+        {
+          "context": "The French Revolution occurred in 1789 and lasted until 1799. It was a period of radical change in France. The revolution led to the abolition of feudalism and the declaration of human rights.",
+          "qas": [
+            {"question": "When did the French Revolution occur?", "id": "87", "answers": [{"text": "1789 to 1799", "answer_start": 38}]},
+            {"question": "What was the result of the French Revolution?", "id": "88", "answers": [{"text": "abolition of feudalism and the declaration of human rights", "answer_start": 132}]}
+          ]
+        },
+        {
+          "context": "The American Revolution was a political upheaval that took place from 1775 to 1783. It resulted in the independence of the thirteen American colonies from British rule. The Declaration of Independence was signed in 1776.",
+          "qas": [
+            {"question": "When did the American Revolution occur?", "id": "89", "answers": [{"text": "from 1775 to 1783", "answer_start": 67}]},
+            {"question": "When was the Declaration of Independence signed?", "id": "90", "answers": [{"text": "1776", "answer_start": 221}]}
+          ]
+        },
+        {
+          "context": "World War II was a global war that lasted from 1939 to 1945. It involved most of the world's nations. The war resulted in millions of deaths and the emergence of the United States and Soviet Union as superpowers.",
+          "qas": [
+            {"question": "When was World War II?", "id": "91", "answers": [{"text": "from 1939 to 1945", "answer_start": 47}]},
+            {"question": "How many years did World War II last?", "id": "92", "answers": [{"text": "6 years", "answer_start": 47}]}
+          ]
+        },
+        {
+          "context": "The Indian independence movement was led by Mahatma Gandhi and resulted in India's independence from British rule on August 15, 1947. Gandhi used non-violent resistance as a tool for independence.",
+          "qas": [
+            {"question": "When did India gain independence?", "id": "93", "answers": [{"text": "August 15, 1947", "answer_start": 124}]},
+            {"question": "Who led the Indian independence movement?", "id": "94", "answers": [{"text": "Mahatma Gandhi", "answer_start": 44}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Geography and Landmarks",
+      "paragraphs": [
+        {
+          "context": "The Taj Mahal is one of the most famous monuments in the world located in Agra, India. It was built by Mughal emperor Shah Jahan as a mausoleum for his beloved wife Mumtaz Mahal. The Taj Mahal is a UNESCO World Heritage Site.",
+          "qas": [
+            {"question": "What is the Taj Mahal?", "id": "95", "answers": [{"text": "one of the most famous monuments in the world", "answer_start": 14}]},
+            {"question": "Where is the Taj Mahal?", "id": "96", "answers": [{"text": "in Agra, India", "answer_start": 67}]},
+            {"question": "Who built the Taj Mahal?", "id": "97", "answers": [{"text": "Mughal emperor Shah Jahan", "answer_start": 104}]}
+          ]
+        },
+        {
+          "context": "Mount Everest is the highest mountain in the world at 8,849 meters above sea level. It is located in the Himalayas on the border between Nepal and Tibet. Mount Everest is a popular destination for mountaineers.",
+          "qas": [
+            {"question": "What is the highest mountain in the world?", "id": "98", "answers": [{"text": "Mount Everest", "answer_start": 0}]},
+            {"question": "How high is Mount Everest?", "id": "99", "answers": [{"text": "8,849 meters", "answer_start": 60}]},
+            {"question": "Where is Mount Everest?", "id": "100", "answers": [{"text": "in the Himalayas on the border between Nepal and Tibet", "answer_start": 129}]}
+          ]
+        },
+        {
+          "context": "The Great Wall of China is one of the most impressive structures in the world. It spans over 13,000 miles and was built over several centuries. The Great Wall was built to protect China from invasions.",
+          "qas": [
+            {"question": "What is the Great Wall of China?", "id": "101", "answers": [{"text": "one of the most impressive structures in the world", "answer_start": 14}]},
+            {"question": "How long is the Great Wall of China?", "id": "102", "answers": [{"text": "over 13,000 miles", "answer_start": 85}]}
+          ]
+        },
+        {
+          "context": "The Statue of Liberty is located on Liberty Island in New York Harbor. It was a gift from France to the United States. The statue symbolizes freedom and democracy.",
+          "qas": [
+            {"question": "Where is the Statue of Liberty?", "id": "103", "answers": [{"text": "on Liberty Island in New York Harbor", "answer_start": 40}]},
+            {"question": "Who gave the Statue of Liberty to the United States?", "id": "104", "answers": [{"text": "France", "answer_start": 108}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Love and Relationships",
+      "paragraphs": [
+        {
+          "context": "Love is a complex emotion that involves deep affection and care for another person. There are different types of love including romantic love, platonic love, and familial love. Love is considered a fundamental human emotion.",
+          "qas": [
+            {"question": "What is love?", "id": "105", "answers": [{"text": "a complex emotion that involves deep affection and care for another person", "answer_start": 8}]},
+            {"question": "What are the types of love?", "id": "106", "answers": [{"text": "romantic love, platonic love, and familial love", "answer_start": 138}]}
+          ]
+        },
+        {
+          "context": "A romantic relationship is a connection between two people based on love, attraction, and emotional intimacy. Healthy relationships are built on trust, communication, and mutual respect. Relationships require effort and commitment to thrive.",
+          "qas": [
+            {"question": "What is a romantic relationship?", "id": "107", "answers": [{"text": "a connection between two people based on love, attraction, and emotional intimacy", "answer_start": 24}]},
+            {"question": "What are the foundations of healthy relationships?", "id": "108", "answers": [{"text": "trust, communication, and mutual respect", "answer_start": 112}]}
+          ]
+        },
+        {
+          "context": "Friendship is a bond between two or more people based on mutual affection and trust. Friends provide emotional support and companionship. True friendship is valuable and enriches life.",
+          "qas": [
+            {"question": "What is friendship?", "id": "109", "answers": [{"text": "a bond between two or more people based on mutual affection and trust", "answer_start": 12}]},
+            {"question": "What do friends provide?", "id": "110", "answers": [{"text": "emotional support and companionship", "answer_start": 99}]}
+          ]
+        },
+        {
+          "context": "Marriage is a legal and social union between two people. Marriage is recognized in most societies as a formal commitment. Marriage involves responsibilities and rights for both partners.",
+          "qas": [
+            {"question": "What is marriage?", "id": "111", "answers": [{"text": "a legal and social union between two people", "answer_start": 10}]},
+            {"question": "What does marriage represent?", "id": "112", "answers": [{"text": "a formal commitment", "answer_start": 79}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Culture and Traditions",
+      "paragraphs": [
+        {
+          "context": "Diwali is a major festival celebrated by millions of people across India and around the world. It is also known as the Festival of Lights. Diwali symbolizes the victory of light over darkness and good over evil.",
+          "qas": [
+            {"question": "What is Diwali?", "id": "113", "answers": [{"text": "a major festival", "answer_start": 9}]},
+            {"question": "When is Diwali celebrated?", "id": "114", "answers": [{"text": "across India and around the world", "answer_start": 57}]}
+          ]
+        },
+        {
+          "context": "Holi is a Hindu festival known as the Festival of Colors. It celebrates the arrival of spring and the victory of good over evil. Holi is celebrated with colorful powders, water balloons, and festive meals.",
+          "qas": [
+            {"question": "What is Holi?", "id": "115", "answers": [{"text": "a Hindu festival known as the Festival of Colors", "answer_start": 7}]},
+            {"question": "How is Holi celebrated?", "id": "116", "answers": [{"text": "with colorful powders, water balloons, and festive meals", "answer_start": 142}]}
+          ]
+        },
+        {
+          "context": "Christmas is a major Christian holiday celebrated on December 25. It commemorates the birth of Jesus Christ. Christmas is celebrated with family gatherings, gift exchanges, and festive meals.",
+          "qas": [
+            {"question": "When is Christmas celebrated?", "id": "117", "answers": [{"text": "on December 25", "answer_start": 69}]},
+            {"question": "What does Christmas celebrate?", "id": "118", "answers": [{"text": "the birth of Jesus Christ", "answer_start": 106}]}
+          ]
+        },
+        {
+          "context": "Yoga is an ancient Indian practice that combines physical postures, breathing exercises, and meditation. Yoga is used for physical fitness, mental peace, and spiritual growth. Yoga is now practiced worldwide.",
+          "qas": [
+            {"question": "What is Yoga?", "id": "119", "answers": [{"text": "an ancient Indian practice that combines physical postures, breathing exercises, and meditation", "answer_start": 8}]},
+            {"question": "What are the benefits of Yoga?", "id": "120", "answers": [{"text": "physical fitness, mental peace, and spiritual growth", "answer_start": 117}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Business and Economics",
+      "paragraphs": [
+        {
+          "context": "Apple Inc. is a multinational technology company founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976. Apple is known for its innovative products such as the iPhone, iPad, and MacBook. Apple is one of the most valuable companies in the world.",
+          "qas": [
+            {"question": "Who founded Apple?", "id": "121", "answers": [{"text": "Steve Jobs, Steve Wozniak, and Ronald Wayne", "answer_start": 57}]},
+            {"question": "When was Apple founded?", "id": "122", "answers": [{"text": "1976", "answer_start": 101}]},
+            {"question": "What products is Apple known for?", "id": "123", "answers": [{"text": "iPhone, iPad, and MacBook", "answer_start": 168}]}
+          ]
+        },
+        {
+          "context": "Microsoft is a technology company founded by Bill Gates and Paul Allen. Microsoft is known for the Windows operating system and Microsoft Office. Microsoft is one of the largest software companies in the world.",
+          "qas": [
+            {"question": "Who founded Microsoft?", "id": "124", "answers": [{"text": "Bill Gates and Paul Allen", "answer_start": 52}]},
+            {"question": "What products is Microsoft known for?", "id": "125", "answers": [{"text": "Windows operating system and Microsoft Office", "answer_start": 116}]}
+          ]
+        },
+        {
+          "context": "Amazon is an e-commerce and cloud computing company founded by Jeff Bezos. Amazon started as an online bookstore and has grown to sell nearly every product imaginable. Amazon Web Services is its cloud computing division.",
+          "qas": [
+            {"question": "Who founded Amazon?", "id": "126", "answers": [{"text": "Jeff Bezos", "answer_start": 67}]},
+            {"question": "What did Amazon start as?", "id": "127", "answers": [{"text": "an online bookstore", "answer_start": 102}]}
+          ]
+        },
+        {
+          "context": "Google is a search engine and technology company founded by Larry Page and Sergey Brin. Google is known for its search engine and Android operating system. Google is now part of Alphabet Inc.",
+          "qas": [
+            {"question": "Who founded Google?", "id": "128", "answers": [{"text": "Larry Page and Sergey Brin", "answer_start": 62}]},
+            {"question": "What is Google known for?", "id": "129", "answers": [{"text": "its search engine and Android operating system", "answer_start": 119}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Health and Medicine",
+      "paragraphs": [
+        {
+          "context": "COVID-19 is a disease caused by the novel coronavirus SARS-CoV-2. It emerged in late 2019 in Wuhan, China. COVID-19 has affected millions of people worldwide and led to a global pandemic.",
+          "qas": [
+            {"question": "What is COVID-19?", "id": "130", "answers": [{"text": "a disease caused by the novel coronavirus SARS-CoV-2", "answer_start": 14}]},
+            {"question": "Where did COVID-19 emerge?", "id": "131", "answers": [{"text": "in Wuhan, China", "answer_start": 92}]}
+          ]
+        },
+        {
+          "context": "The human heart is a muscular organ that pumps blood throughout the body. The heart is the center of the circulatory system. A healthy heart is essential for survival.",
+          "qas": [
+            {"question": "What is the human heart?", "id": "132", "answers": [{"text": "a muscular organ that pumps blood throughout the body", "answer_start": 21}]},
+            {"question": "Why is the heart important?", "id": "133", "answers": [{"text": "It is the center of the circulatory system and essential for survival", "answer_start": 90}]}
+          ]
+        },
+        {
+          "context": "Exercise is physical activity that improves health and fitness. Regular exercise reduces the risk of chronic diseases. Exercise also improves mental health and mood.",
+          "qas": [
+            {"question": "What is exercise?", "id": "134", "answers": [{"text": "physical activity that improves health and fitness", "answer_start": 12}]},
+            {"question": "What are the benefits of exercise?", "id": "135", "answers": [{"text": "reduces the risk of chronic diseases and improves mental health", "answer_start": 87}]}
+          ]
+        },
+        {
+          "context": "Nutrition is the intake of food and nutrients needed for survival and health. A balanced diet contains proteins, carbohydrates, fats, vitamins, and minerals. Good nutrition is essential for optimal health.",
+          "qas": [
+            {"question": "What is nutrition?", "id": "136", "answers": [{"text": "the intake of food and nutrients needed for survival and health", "answer_start": 12}]},
+            {"question": "What is a balanced diet?", "id": "137", "answers": [{"text": "contains proteins, carbohydrates, fats, vitamins, and minerals", "answer_start": 117}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Art and Design",
+      "paragraphs": [
+        {
+          "context": "Vincent van Gogh was a Dutch painter known for his vibrant use of color and distinctive brushwork. Some of his famous paintings include Starry Night and Sunflowers. Van Gogh's work had a profound influence on modern art.",
+          "qas": [
+            {"question": "Who was Vincent van Gogh?", "id": "138", "answers": [{"text": "a Dutch painter", "answer_start": 20}]},
+            {"question": "What is van Gogh famous for?", "id": "139", "answers": [{"text": "vibrant use of color and distinctive brushwork", "answer_start": 55}]},
+            {"question": "What are some of van Gogh's famous paintings?", "id": "140", "answers": [{"text": "Starry Night and Sunflowers", "answer_start": 158}]}
+          ]
+        },
+        {
+          "context": "Pablo Picasso was a Spanish painter and sculptor known for co-founding Cubism. His most famous work is Guernica, a powerful anti-war painting. Picasso's art revolutionized modern art.",
+          "qas": [
+            {"question": "Who was Pablo Picasso?", "id": "141", "answers": [{"text": "a Spanish painter and sculptor", "answer_start": 17}]},
+            {"question": "What art movement did Picasso co-found?", "id": "142", "answers": [{"text": "Cubism", "answer_start": 85}]},
+            {"question": "What is Picasso's most famous work?", "id": "143", "answers": [{"text": "Guernica", "answer_start": 127}]}
+          ]
+        },
+        {
+          "context": "The Mona Lisa is a portrait painted by Leonardo da Vinci. It is displayed in the Louvre Museum in Paris. The Mona Lisa is one of the most famous paintings in the world.",
+          "qas": [
+            {"question": "Who painted the Mona Lisa?", "id": "144", "answers": [{"text": "Leonardo da Vinci", "answer_start": 38}]},
+            {"question": "Where is the Mona Lisa?", "id": "145", "answers": [{"text": "in the Louvre Museum in Paris", "answer_start": 90}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Additional Facts and General Knowledge",
+      "paragraphs": [
+        {
+          "context": "The Amazon Rainforest is the largest tropical rainforest in the world. It covers an area of about 5.5 million square kilometers. The Amazon produces about 20% of the world's oxygen.",
+          "qas": [
+            {"question": "What is the Amazon Rainforest?", "id": "146", "answers": [{"text": "the largest tropical rainforest in the world", "answer_start": 14}]},
+            {"question": "How much oxygen does the Amazon produce?", "id": "147", "answers": [{"text": "about 20% of the world's oxygen", "answer_start": 153}]}
+          ]
+        },
+        {
+          "context": "The Big Bang theory suggests that the universe originated from an extremely hot and dense point. The universe has been expanding ever since. The Big Bang occurred approximately 13.8 billion years ago.",
+          "qas": [
+            {"question": "What is the Big Bang theory?", "id": "148", "answers": [{"text": "suggests that the universe originated from an extremely hot and dense point", "answer_start": 19}]},
+            {"question": "How old is the universe?", "id": "149", "answers": [{"text": "approximately 13.8 billion years old", "answer_start": 157}]}
+          ]
+        },
+        {
+          "context": "The Periodic Table is a systematic arrangement of all known chemical elements. It was created by Dmitri Mendeleev. The elements are organized by their atomic number and chemical properties.",
+          "qas": [
+            {"question": "What is the Periodic Table?", "id": "150", "answers": [{"text": "a systematic arrangement of all known chemical elements", "answer_start": 14}]},
+            {"question": "Who created the Periodic Table?", "id": "151", "answers": [{"text": "Dmitri Mendeleev", "answer_start": 81}]}
+          ]
+        },
+        {
+          "context": "Einstein's Theory of Relativity revolutionized physics. It consists of two theories: Special Relativity and General Relativity. The famous equation E=mc² relates mass and energy.",
+          "qas": [
+            {"question": "What is Einstein's Theory of Relativity?", "id": "152", "answers": [{"text": "a theory that revolutionized physics", "answer_start": 23}]},
+            {"question": "What is the famous equation by Einstein?", "id": "153", "answers": [{"text": "E=mc²", "answer_start": 156}]}
+          ]
+        },
+        {
+          "context": "Python is a high-level programming language known for its simplicity and readability. It was created by Guido van Rossum in 1991. Python is widely used in data science and web development.",
+          "qas": [
+            {"question": "What is Python?", "id": "154", "answers": [{"text": "a high-level programming language known for its simplicity and readability", "answer_start": 9}]},
+            {"question": "Who created Python?", "id": "155", "answers": [{"text": "Guido van Rossum", "answer_start": 78}]},
+            {"question": "When was Python created?", "id": "156", "answers": [{"text": "1991", "answer_start": 98}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Technology & Software Development",
+      "paragraphs": [
+        {
+          "context": "Machine learning (ML) is a field of computer science that uses statistical techniques to give computer systems the ability to learn from data. Common algorithms include linear regression, decision trees, random forests, SVMs, and neural networks.",
+          "qas": [
+            {"question": "What is machine learning?", "id": "157", "answers": [{"text": "a field of computer science that uses statistical techniques to give computer systems the ability to learn from data", "answer_start": 0}]},
+            {"question": "Name common ML algorithms", "id": "158", "answers": [{"text": "linear regression, decision trees, random forests, SVMs, and neural networks", "answer_start": 101}]}
+          ]
+        },
+        {
+          "context": "Artificial Intelligence (AI) is the broader discipline that includes ML, reasoning, planning, and perception. Deep learning is a subset of ML that uses multi-layer neural networks to learn hierarchical representations.",
+          "qas": [
+            {"question": "What is artificial intelligence?", "id": "159", "answers": [{"text": "the broader discipline that includes ML, reasoning, planning, and perception", "answer_start": 0}]},
+            {"question": "What is deep learning?", "id": "160", "answers": [{"text": "a subset of ML that uses multi-layer neural networks to learn hierarchical representations", "answer_start": 95}]}
+          ]
+        },
+        {
+          "context": "Natural Language Processing (NLP) is the field of study focused on interactions between computers and human language. Typical tasks include tokenization, part-of-speech tagging, named entity recognition, sentiment analysis, and machine translation.",
+          "qas": [
+            {"question": "What is NLP?", "id": "161", "answers": [{"text": "the field of study focused on interactions between computers and human language", "answer_start": 0}]},
+            {"question": "What are NLP tasks?", "id": "162", "answers": [{"text": "tokenization, part-of-speech tagging, named entity recognition, sentiment analysis, and machine translation", "answer_start": 107}]}
+          ]
+        },
+        {
+          "context": "Transformer models (like BERT and GPT) use self-attention mechanisms and are now the dominant architecture for many NLP problems. Fine-tuning pre-trained transformers on domain data is a common practice.",
+          "qas": [
+            {"question": "What are transformers?", "id": "163", "answers": [{"text": "models that use self-attention mechanisms and are dominant for NLP problems", "answer_start": 0}]},
+            {"question": "Name transformer models", "id": "164", "answers": [{"text": "BERT and GPT", "answer_start": 66}]}
+          ]
+        },
+        {
+          "context": "Word embeddings like Word2Vec, GloVe, and contextual embeddings produced by transformer models map words or tokens to dense numeric vectors that capture semantic relationships.",
+          "qas": [
+            {"question": "What are word embeddings?", "id": "165", "answers": [{"text": "dense numeric vectors that capture semantic relationships", "answer_start": 87}]},
+            {"question": "Name embedding methods", "id": "166", "answers": [{"text": "Word2Vec, GloVe, and contextual embeddings", "answer_start": 13}]}
+          ]
+        },
+        {
+          "context": "Key software development practices include version control (Git), testing (unit/integration), code reviews, continuous integration/continuous deployment (CI/CD), and documentation.",
+          "qas": [
+            {"question": "What is Git used for?", "id": "167", "answers": [{"text": "version control", "answer_start": 21}]},
+            {"question": "What are good development practices?", "id": "168", "answers": [{"text": "version control, testing, code reviews, CI/CD, and documentation", "answer_start": 52}]}
+          ]
+        },
+        {
+          "context": "Docker containers package an application and its dependencies so it can run consistently across environments. Kubernetes is an orchestration system to deploy and manage containers at scale.",
+          "qas": [
+            {"question": "What is Docker?", "id": "169", "answers": [{"text": "a tool to package an application and its dependencies into containers", "answer_start": 0}]},
+            {"question": "What is Kubernetes?", "id": "170", "answers": [{"text": "an orchestration system to deploy and manage containers at scale", "answer_start": 80}]}
+          ]
+        },
+        {
+          "context": "Common ML development steps: define problem, collect and clean data, choose model, train, validate, tune hyperparameters, test, and deploy. Monitor models for drift after deployment.",
+          "qas": [
+            {"question": "What are the ML development steps?", "id": "171", "answers": [{"text": "define problem, collect and clean data, choose model, train, validate, tune hyperparameters, test, and deploy", "answer_start": 26}]},
+            {"question": "What is model drift?", "id": "172", "answers": [{"text": "when a model's performance degrades over time because data distribution changed", "answer_start": 0}]}
+          ]
+        },
+        {
+          "context": "Overfitting occurs when a model learns noise from the training data and does not generalize well. Common mitigations include regularization, more data, early stopping, and cross-validation.",
+          "qas": [
+            {"question": "What is overfitting?", "id": "173", "answers": [{"text": "when a model learns noise from the training data and does not generalize well", "answer_start": 0}]},
+            {"question": "How to prevent overfitting?", "id": "174", "answers": [{"text": "regularization, more data, early stopping, and cross-validation", "answer_start": 99}]}
+          ]
+        },
+        {
+          "context": "Hyperparameters are configuration settings (like learning rate, batch size, number of layers) that control the learning process. They are tuned using validation performance.",
+          "qas": [
+            {"question": "What are hyperparameters?", "id": "175", "answers": [{"text": "configuration settings that control the learning process", "answer_start": 0}]},
+            {"question": "Give examples of hyperparameters", "id": "176", "answers": [{"text": "learning rate, batch size, number of layers", "answer_start": 62}]}
+          ]
+        },
+        {
+          "context": "Tokenization splits text into units (tokens) such as words, subwords, or characters. Subword tokenizers (BPE, WordPiece) are common for transformer models.",
+          "qas": [
+            {"question": "What is tokenization?", "id": "177", "answers": [{"text": "splitting text into units such as words, subwords, or characters", "answer_start": 0}]},
+            {"question": "What tokenizers are used for transformers?", "id": "178", "answers": [{"text": "subword tokenizers like BPE and WordPiece", "answer_start": 70}]}
+          ]
+        },
+        {
+          "context": "Stemming and lemmatization reduce words to base forms: stemming is a crude heuristic cut, lemmatization uses vocabulary and morphological analysis for valid lemmas.",
+          "qas": [
+            {"question": "What is stemming?", "id": "179", "answers": [{"text": "a crude heuristic that trims word endings", "answer_start": 0}]},
+            {"question": "What is lemmatization?", "id": "180", "answers": [{"text": "reducing words to valid lemmas using vocabulary and morphological analysis", "answer_start": 66}]}
+          ]
+        },
+        {
+          "context": "Cross-validation (k-fold) splits data into k parts and trains k models to estimate generalization performance more robustly than a single validation split.",
+          "qas": [
+            {"question": "What is cross-validation?", "id": "181", "answers": [{"text": "a method that splits data into k parts and trains k models to estimate performance", "answer_start": 0}]},
+            {"question": "Why use k-fold cross-validation?", "id": "182", "answers": [{"text": "to get a more robust estimate of generalization performance", "answer_start": 63}]}
+          ]
+        },
+        {
+          "context": "API stands for Application Programming Interface — a defined way for programs to talk to each other. REST is an architectural style using HTTP verbs; GraphQL is a query language that lets clients request exactly the data they need.",
+          "qas": [
+            {"question": "What is an API?", "id": "183", "answers": [{"text": "Application Programming Interface — a defined way for programs to talk to each other", "answer_start": 0}]},
+            {"question": "REST vs GraphQL", "id": "184", "answers": [{"text": "REST uses HTTP verbs and endpoints; GraphQL lets clients request exactly the data they need via queries", "answer_start": 67}]}
+          ]
+        },
+        {
+          "context": "Common daily developer tasks: create virtual environments, install dependencies, run linters/tests, run the app locally, and push code with meaningful commits.",
+          "qas": [
+            {"question": "How to create a Python virtual environment?", "id": "185", "answers": [{"text": "python -m venv .venv and then source .venv/bin/activate", "answer_start": 0}]},
+            {"question": "How to install packages from requirements.txt?", "id": "186", "answers": [{"text": "pip install -r requirements.txt", "answer_start": 0}]}
+          ]
+        },
+        {
+          "context": "Unit tests check small pieces of code in isolation. Use frameworks like pytest. Tests should be fast, deterministic, and cover edge cases.",
+          "qas": [
+            {"question": "What are unit tests?", "id": "187", "answers": [{"text": "tests that check small pieces of code in isolation", "answer_start": 0}]},
+            {"question": "Which Python test framework is common?", "id": "188", "answers": [{"text": "pytest", "answer_start": 64}]}
+          ]
+        },
+        {
+          "context": "Logging and monitoring help diagnose issues in production. Use structured logs, set appropriate log levels, and collect metrics and traces.",
+          "qas": [
+            {"question": "Why use logging?", "id": "189", "answers": [{"text": "to diagnose issues and record runtime information", "answer_start": 0}]},
+            {"question": "What to monitor in production?", "id": "190", "answers": [{"text": "metrics, logs, traces, and error rates", "answer_start": 29}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
